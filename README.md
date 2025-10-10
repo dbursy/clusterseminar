@@ -4,7 +4,49 @@
 All abstracts and locations will be shared via our mailing list. If you want to attend a specific session or receive the mailing list in the future, write a short mail to aantezza@diw.de and dbursy@diw.de. Note that the dates and speakers are subject to change. 
 <br>
 
-## Summer Semester 2025
+---
+
+<details open>
+<summary style="font-size:1.5em; font-weight:bold; cursor:pointer; margin-top:1em; margin-bottom:0.5em;">
+Winter Semester 2025 /2026
+</summary>
+
+19.11.2025 **Mia Teschner**, "Title to be announced"
+<br><br>
+
+03.12.2025 **Lavinia Kinne**, "Diversity in Teams and Creative Output"
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    Kurzbeschreibung: We study the impact of group composition on the creativity of team output. To do so, we exploit the randomized allocation of first-year undergraduate students to study groups in a large Economics module over multiple years. Students are required to produce a short video on an important invention/innovation and its economic impacts. Using a variety of creativity measures rated by multiple raters, some of them with a major in film studies, we analyze how the group composition in terms of gender and background affects the quality of the video output. Furthermore, we look at who appears in the videos and in which function to study the representation of group members. Qualitative evidence from focus groups with participating students provides evidence on mechanisms.
+</p>
+<br>
+
+17.12.2025 **MMareen Bastiaans**, "Title to be announced"
+<br><br>
+
+14.01.2026 **Lars Felder**, "Title to be announced"
+<br><br>
+
+28.01.2026 **William Fernandez**, "Raising the Retirement Age for Women. Spillover Effects on Young Adults’ Labor Supply in Brazil"
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    Latin America is facing rapid population aging. To address the sustainability of contributory pension systems, many countries are considering increasing the retirement age. One such case is Brazil, where a pension reform in 2019 raised the retirement age from 60 to 62 for women. While the effects of such reforms on the labor force participation of older adults and their spouses have been widely analyzed, intergenerational spillover effects remain understudied, particularly in Latin America. Evidence from other contexts suggests that a mother’s retirement can increase her young daughters’ labor supply, particularly among households with young children. However, most of this evidence comes from European countries with broader access to formal sources of childcare. In this paper, I estimate the effect of grandmother’s retirement on the labor force participation of young adults in Brazil. Using data from Brazil’s Continuous National Household Sample Survey (PNADC) from 2023 and a fuzzy regression discontinuity design, I find that older women substantially reduce their working hours upon retirement. Moreover, adult women living with young children and an older woman who retires upon reaching the minimum retirement age increase their working hours by 0.5 for every hour the older woman stops working. No significant effects are observed for men, even when young children are present in the household. These findings suggest that, in contexts with limited access to formal childcare, grandmothers play a crucial role in supporting their daughters’ labor supply, particularly when young children are involved. 
+</p>
+<br>
+
+11.02.2026 **Annica Gehlen**, "Title to be announced"
+<br><br>
+
+25.02.2026 **Maxi Schaller**, "Title to be announced"
+<br><br>
+
+</details>
+
+---
+
+<details>
+<summary style="font-size:1.5em; font-weight:bold; cursor:pointer; margin-top:1em; margin-bottom:0.5em;">
+Summer Semester 2025
+</summary>
+
 16.04.2025 **Marten Ritterrath**, "Inventors' Personal Experience of Natural Disasters and Green Innovation"
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
     We show that inventors' personal experiences of natural disasters lead to increased green innovation through changes in their higher-order beliefs about consumer preferences. We match patent records of French and German inventors and a survey of inventive firms to detailed information on natural disasters. This allows us to exploit exogenous variation in inventors’ exposure to natural disasters. In affected areas, exposure results in an average 8.2% increase in green patents, driven primarily by increased innovation in mitigation technologies that reduce emissions. Non-green innovation remains unaffected. We do not find significant spatial spillovers in patenting, underlining the importance of being personally affected. To get at the mechanism, we investigate how natural disaster exposure changes firms' reasons for green innovation. Affected firms adjust their higher-order beliefs regarding consumers’ demand for green goods and more stringent environmental regulation. Our findings provide novel causal evidence that personal experiences affect higher-order beliefs.
@@ -60,12 +102,15 @@ Does increased legal infrastructure empower victims to leave abusive relationshi
 </p>
 <br>
 
-
-<div style="height: 10mm;"></div>
+</details>
 
 ---
 
-## Winter Semester 2024 / 2025
+<details>
+<summary style="font-size:1.5em; font-weight:bold; cursor:pointer; margin-top:1em; margin-bottom:0.5em;">
+Winter Semester 2024 / 2025
+</summary>
+
 23.10.2024 **Lavinia Kinne & Virginia Sondergeld**, "Meet My Family: The Effect of Female CEOs’ Newspaper Coverage on CEO Perception and Economic Decision-making"
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
     The newspaper coverage of CEOs is highly gendered with more family-related language used in newspaper articles on female than male company leaders. In a randomized online experiment, we ask whether this stereotypical representation affects readers' beliefs about CEO competence, firm performance, and resulting financial decision-making. We show participants articles consisting of elements from real newspaper coverage on a real company and its CEO, and vary the way information about their family is (not) presented. We find that although respondents do not believe firm performance to be different by CEO coverage, investments into the firm stock are significantly lower for female CEOs when their family is neutrally mentioned. Instead, there is no penalty for highlighting a trade-off between family and career. Machine-learning analysis based on free-text questions suggests that family and gender play an important role in respondents' reasoning.
@@ -120,4 +165,4 @@ Does increased legal infrastructure empower victims to leave abusive relationshi
 </p>
 <br>
 
-
+</details>
