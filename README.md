@@ -12,7 +12,13 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 Winter Semester 2025 /2026
 </summary>
 
+<strong>05.11.2025</strong> <b>Hermann Buslei</b>, <i>Title to be announced</i>
+<br><br>
+
 <strong>19.11.2025</strong> <b>Mia Teschner</b>, <i>Title to be announced</i>
+<br><br>
+
+<strong>26.11.2025</strong> <b>Anna Hasselqvist</b>, <i>Title to be announced</i>
 <br><br>
 
 <strong>03.12.2025</strong> <b>Lavinia Kinne</b>, <i>Diversity in Teams and Creative Output</i>
@@ -27,11 +33,17 @@ Winter Semester 2025 /2026
 <strong>14.01.2026</strong> <b>Lars Felder</b>, <i>Title to be announced</i>
 <br><br>
 
+<strong>21.01.2026</strong> <b>Izabela Wnuk-Soares</b>, <i>Title to be announced</i>
+<br><br>
+
 <strong>28.01.2026</strong> <b>William Fernandez</b>, <i>Raising the Retirement Age for Women. Spillover Effects on Young Adults’ Labor Supply in Brazil</i>
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
     Latin America is facing rapid population aging. To address the sustainability of contributory pension systems, many countries are considering increasing the retirement age. One such case is Brazil, where a pension reform in 2019 raised the retirement age from 60 to 62 for women. While the effects of such reforms on the labor force participation of older adults and their spouses have been widely analyzed, intergenerational spillover effects remain understudied, particularly in Latin America. Evidence from other contexts suggests that a mother’s retirement can increase her young daughters’ labor supply, particularly among households with young children. However, most of this evidence comes from European countries with broader access to formal sources of childcare. In this paper, I estimate the effect of grandmother’s retirement on the labor force participation of young adults in Brazil. Using data from Brazil’s Continuous National Household Sample Survey (PNADC) from 2023 and a fuzzy regression discontinuity design, I find that older women substantially reduce their working hours upon retirement. Moreover, adult women living with young children and an older woman who retires upon reaching the minimum retirement age increase their working hours by 0.5 for every hour the older woman stops working. No significant effects are observed for men, even when young children are present in the household. These findings suggest that, in contexts with limited access to formal childcare, grandmothers play a crucial role in supporting their daughters’ labor supply, particularly when young children are involved. 
 </p>
 <br>
+
+<strong>04.02.2026</strong> <b>Anna Bindler</b>, <i>Title to be announced</i>
+<br><br>
 
 <strong>11.02.2026</strong> <b>Annica Gehlen</b>, <i>Title to be announced</i>
 <br><br>
