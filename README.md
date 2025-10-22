@@ -12,43 +12,52 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 Winter Semester 2025 /2026
 </summary>
 
-<strong>05.11.2025</strong> <b>Hermann Buslei</b>, <i>Title to be announced</i>
+<strong>05.11.2025 — 14:00 to 15:00</strong> <b>Hermann Buslei</b>, <i>Title to be announced</i>
 <br><br>
 
-<strong>19.11.2025</strong> <b>Mia Teschner</b>, <i>Title to be announced</i>
+<strong>19.11.2025 — 12:00 to 13:00</strong> <b>Mia Teschner</b>, <i>Title to be announced</i>
 <br><br>
 
-<strong>26.11.2025</strong> <b>Anna Hasselqvist</b>, <i>Title to be announced</i>
-<br><br>
+<strong>26.11.2025 — 14:00 to 15:00</strong> <b>Anna Hasselqvist</b>, <i>In the Shadow of Brothers: Unintended Impacts of a School Entry Policy on Migrant Girls</i>
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    Siblings are the ultimate peers, deeply shaping one another’s development. Do these influences vary with a family’s cultural background? I estimate how sibling spillovers differ for girls and boys with older brothers or sisters in migrant and native families, using a regression discontinuity design on high-quality administrative data. Exploiting exogenous variation in older siblings’ achievement from their school entry age, I show that girls in migrant families with high-achieving older brothers experience significantly lower educational outcomes. This effect does not appear for native girls or for migrant and native boys. I propose a simple theoretical framework to explain these results, highlighting gender bias in parental preferences as a key factor. Moreover, the effects are more pronounced in migrant families with traditional backgrounds and are also reflected in mothers' labor supply decisions when sons, rather than daughters, enter school late.
+</p>
+<br>
 
-<strong>03.12.2025</strong> <b>Lavinia Kinne</b>, <i>Diversity in Teams and Creative Output</i>
+<strong>03.12.2025 — 12:00 to 13:00</strong> <b>Lavinia Kinne</b>, <i>Diversity in Teams and Creative Output</i>
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
     We study the impact of group composition on the creativity of team output. To do so, we exploit the randomized allocation of first-year undergraduate students to study groups in a large Economics module over multiple years. Students are required to produce a short video on an important invention/innovation and its economic impacts. Using a variety of creativity measures rated by multiple raters, some of them with a major in film studies, we analyze how the group composition in terms of gender and background affects the quality of the video output. Furthermore, we look at who appears in the videos and in which function to study the representation of group members. Qualitative evidence from focus groups with participating students provides evidence on mechanisms.
 </p>
 <br>
 
-<strong>17.12.2025</strong> <b>Mareen Bastiaans</b>, <i>Title to be announced</i>
+<strong>10.12.2025 — 12:00 to 13:00</strong> <b>Marten Ritterrath</b>, <i>Title to be announced</i>
 <br><br>
 
-<strong>14.01.2026</strong> <b>Lars Felder</b>, <i>Title to be announced</i>
+<strong>17.12.2025 — 12:00 to 13:00</strong> <b>Mareen Bastiaans</b>, <i>Title to be announced</i>
 <br><br>
 
-<strong>21.01.2026</strong> <b>Izabela Wnuk-Soares</b>, <i>Title to be announced</i>
+<strong>14.01.2026 — 12:00 to 13:00</strong> <b>Lars Felder</b>, <i>Title to be announced</i>
 <br><br>
 
-<strong>28.01.2026</strong> <b>William Fernandez</b>, <i>Raising the Retirement Age for Women. Spillover Effects on Young Adults’ Labor Supply in Brazil</i>
+<strong>21.01.2026 — 12:00 to 13:00</strong> <b>Izabela Wnuk-Soares</b>, <i>Title to be announced</i>
+<br><br>
+
+<strong>28.01.2026 — 12:00 to 13:00</strong> <b>William Fernandez</b>, <i>Raising the Retirement Age for Women. Spillover Effects on Young Adults’ Labor Supply in Brazil</i>
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
     Latin America is facing rapid population aging. To address the sustainability of contributory pension systems, many countries are considering increasing the retirement age. One such case is Brazil, where a pension reform in 2019 raised the retirement age from 60 to 62 for women. While the effects of such reforms on the labor force participation of older adults and their spouses have been widely analyzed, intergenerational spillover effects remain understudied, particularly in Latin America. Evidence from other contexts suggests that a mother’s retirement can increase her young daughters’ labor supply, particularly among households with young children. However, most of this evidence comes from European countries with broader access to formal sources of childcare. In this paper, I estimate the effect of grandmother’s retirement on the labor force participation of young adults in Brazil. Using data from Brazil’s Continuous National Household Sample Survey (PNADC) from 2023 and a fuzzy regression discontinuity design, I find that older women substantially reduce their working hours upon retirement. Moreover, adult women living with young children and an older woman who retires upon reaching the minimum retirement age increase their working hours by 0.5 for every hour the older woman stops working. No significant effects are observed for men, even when young children are present in the household. These findings suggest that, in contexts with limited access to formal childcare, grandmothers play a crucial role in supporting their daughters’ labor supply, particularly when young children are involved. 
 </p>
 <br>
 
-<strong>04.02.2026</strong> <b>Anna Bindler</b>, <i>Title to be announced</i>
+<strong>04.02.2026 — 12:00 to 13:00</strong> <b>Anna Bindler</b>, <i>Title to be announced</i>
 <br><br>
 
-<strong>11.02.2026</strong> <b>Annica Gehlen</b>, <i>Title to be announced</i>
+<strong>11.02.2026 — 12:00 to 13:00</strong> <b>Annica Gehlen</b>, <i>Title to be announced</i>
 <br><br>
 
-<strong>25.02.2026</strong> <b>Maxi Schaller</b>, <i>Title to be announced</i>
+<strong>18.02.2026 — 12:00 to 13:00</strong> <b>Luisa Santiago Wolf</b>, <i>Title to be announced</i>
+<br><br>
+
+<strong>25.02.2026 — 12:00 to 13:00</strong> <b>Maxi Schaller</b>, <i>Title to be announced</i>
 <br><br>
 
 </details>
