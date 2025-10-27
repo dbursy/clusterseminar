@@ -12,10 +12,13 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 Winter Semester 2025 /2026
 </summary>
 
-<strong>05.11.2025 — 14:00 to 15:00</strong> <b>Hermann Buslei</b>, <i>Title to be announced</i>
-<br><br>
+<strong>05.11.2025 — 14:00 to 15:00</strong> <b>Hermann Buslei</b>, <i>Early retirement for early starters - A well targeted policy for people with high job demand?</i> (Joint with Lars Felder, Johannes Geyer and Peter Haan)
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    Despite growing demographic pressure, a reform in Germany has lowered the full retirement age (FRA) temporarily for early starters. In this paper we analyze whether the reform was well targeted. Specifically, we study if the early retirement scheme benefits workers with high job strain or if workers with better jobs and the potential to continue employment at older ages are the main beneficiaries of this pathway. For the empirical analysis we use high quality administrative data from the Federal Employment Agency covering the complete employment biographies of individuals and including information about the job strain at the individual level. We focus on men in West Germany as for them information on child-related pension entitlements which is incomplete in the data is usually unimportant and the information on their employment history is included in the dataset also for periods before German reunification. We exploit policy variation induced by the pension reform using a Difference in Differences Design. The reform initially reduced average labor market exit age by about nine months corresponding to around 4.5 months for each year the FRA was lowered. The impact decreased considerably when the FRA was raised again gradually. The effect is stronger for individuals working in demanding occupations. The result applies to the average job strain over the full career as well as to the average job strain in the last years before retirement.
+</p>
+<br>
 
-<strong>19.11.2025 — 12:00 to 13:00</strong> <b>Mia Teschner</b>, <i>Title to be announced</i>
+<strong>19.11.2025 — 12:00 to 13:00</strong> <b>Mia Teschner</b>, <i>Working Longer: The Effects of a Higher Retirement Age on Work-Related Health Investments During the Working Life</i> (Joint with Johannes Geyer, Peter Haan, Felix Weinhardt)
 <br><br>
 
 <strong>26.11.2025 — 14:00 to 15:00</strong> <b>Anna Hasselqvist</b>, <i>In the Shadow of Brothers: Unintended Impacts of a School Entry Policy on Migrant Girls</i>
@@ -87,7 +90,7 @@ Summer Semester 2025
 </p>
 <br>
 
-<strong>04.06.2025</strong> <b>Emma Paladino</b>, <i>Parental Health Shocks and Young Adults' Life Trajectories</i> (joint with Anna Person, University of Cologne)
+<strong>04.06.2025</strong> <b>Emma Paladino</b>, <i>Parental Health Shocks and Young Adults' Life Trajectories</i> (Joint with Anna Person, University of Cologne)
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
     As Western populations age, more adult children face parental health challenges. Caregiving responsibilities towards parents are becoming crucial concerns for families, healthcare systems, and societies. While this care is essential for elderly well-being, it also demands significant time, energy and emotional resources. Yet, the impact of care provision on caregivers’ lives remains understudied. This study examines how unexpected parental health crises affect young adults’ decisions to form partnerships and have children. Using Dutch administrative data, we track individuals aged 15-35 whose parents suffered non-fatal health events, that generated a long-lasting care need. Our analysis aims to explore mechanisms related to time allocation and mental health impacts, potentially creating cycles where delayed fertility leads to older parenthood and earlier caregiving duties in the next generations.
 </p>
@@ -112,7 +115,7 @@ Does increased legal infrastructure empower victims to leave abusive relationshi
 </p>
 <br>
 
-<strong>09.07.2025</strong> <b>Part II: Maxi Schaller</b>, <i>Non-cognitive skills and wages</i> (joint with Richard Blundell and Peter Haan)
+<strong>09.07.2025</strong> <b>Part II: Maxi Schaller</b>, <i>Non-cognitive skills and wages</i> (Joint with Richard Blundell and Peter Haan)
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
     In this paper, we use SOEP-ADIAB data to investigate the differential wage returns to non-cognitive skills, and explore how these returns depend on the occupational task content. The dataset enables us to extract three dimensions of non-cognitive skills capturing sociability, diligence and emotional stability. We demonstrate how individuals sort into occupations with high social-skill requirements based on their skill profiles. In our main analysis, we estimate a model of tenure-wage growth. Preliminary results indicate that individuals experience stronger wage growth with tenure in occupations where social skills are more important.
 </p>
@@ -145,7 +148,7 @@ Winter Semester 2024 / 2025
 </p>
 <br>
 
-<strong>20.11.2024</strong> <b>Daniel Graeber</b>, <i>Cognitive Abilities and Economic Preferences: Evidence from Genetic and Behavioral Data</i> (joint work with Tana Maneein and Carsten Schroeder)
+<strong>20.11.2024</strong> <b>Daniel Graeber</b>, <i>Cognitive Abilities and Economic Preferences: Evidence from Genetic and Behavioral Data</i> (Joint work with Tana Maneein and Carsten Schroeder)
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
     An influential body of economic literature has consistently shown strong associations between cognitive abilities and economic preferences. However, much of this research has overlooked the potential endogeneity of cognitive abilities—an oversight given that these abilities stem from a series of investment decisions influenced by factors likely correlated with economic preferences. To address this gap, we utilize a novel dataset that includes both stated and revealed preferences, along with genetic data on respondents. We measure inherent predispositions to high cognitive abilities using a polygenic score for cognitive performance (PGI CP), providing a robust proxy for individuals’ innate cognitive potential. Our comprehensive data further allow us to mitigate concerns that individuals with a genetic disposition for high cognitive performance are also raised in more favorable environments.
 </p>
