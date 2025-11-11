@@ -27,12 +27,6 @@ Winter Semester 2025 /2026
 </p>
 <br>
 
-<strong>03.12.2025 — 12:00 to 13:00</strong> <b>Lavinia Kinne</b>, <i>Diversity in Teams and Creative Output</i>
-<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
-    We study the impact of group composition on the creativity of team output. To do so, we exploit the randomized allocation of first-year undergraduate students to study groups in a large Economics module over multiple years. Students are required to produce a short video on an important invention/innovation and its economic impacts. Using a variety of creativity measures rated by multiple raters, some of them with a major in film studies, we analyze how the group composition in terms of gender and background affects the quality of the video output. Furthermore, we look at who appears in the videos and in which function to study the representation of group members. Qualitative evidence from focus groups with participating students provides evidence on mechanisms.
-</p>
-<br>
-
 <strong>10.12.2025 — 12:00 to 13:00</strong> <b>Marten Ritterrath</b>, <i>Title to be announced</i>
 <br><br>
 
@@ -62,6 +56,12 @@ Winter Semester 2025 /2026
 
 <strong>25.02.2026 — 12:00 to 13:00</strong> <b>Maxi Schaller</b>, <i>Title to be announced</i>
 <br><br>
+
+<strong>04.03.2025 — 12:00 to 13:00</strong> <b>Lavinia Kinne</b>, <i>Diversity in Teams and Creative Output</i>
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    We study the impact of group composition on the creativity of team output. To do so, we exploit the randomized allocation of first-year undergraduate students to study groups in a large Economics module over multiple years. Students are required to produce a short video on an important invention/innovation and its economic impacts. Using a variety of creativity measures rated by multiple raters, some of them with a major in film studies, we analyze how the group composition in terms of gender and background affects the quality of the video output. Furthermore, we look at who appears in the videos and in which function to study the representation of group members. Qualitative evidence from focus groups with participating students provides evidence on mechanisms.
+</p>
+<br>
 
 </details>
 
