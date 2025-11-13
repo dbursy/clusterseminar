@@ -19,7 +19,12 @@ Winter Semester 2025 /2026
 <br>
 
 <strong>19.11.2025 — 12:00 to 13:00</strong> <b>Mia Teschner</b>, <i>Working Longer: The Effects of a Higher Retirement Age on Work-Related Health Investments During the Working Life</i> (Joint with Johannes Geyer, Peter Haan, Felix Weinhardt)
-<br><br>
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    Health investments are vital for maintaining physical and mental well-being throughout working life, and their importance is amplified with rising retirement ages due to demographic aging. This is the first study to examine if a longer working life causally increases institutionalized health investments. We explore the impact of a German pension reform that raised the retirement age by three years and extended the working life.
+Utilizing detailed administrative data from the German pension insurance on work-related rehabilitation measures, we apply a sharp regression discontinuity design based on birth cohort cut-offs introduced by the reform.
+We find evidence of increased applications for work-related health investments during the working life if the individual initiates the application, supporting the prediction from the standard human capital model. Heterogeneity analyses show different effects across initial medical diagnosis, as well as stronger effects for individuals with a weak previous health status, less attachment to the labor market, and more institutional knowledge. However, in terms of realized investments, we do not find evidence for an increase in completed rehabilitation measures. This null effect holds across various subgroups and persists for specific diagnoses and measures.
+</p>
+<br>
 
 <strong>26.11.2025 — 14:00 to 15:00</strong> <b>Anna Hasselqvist</b>, <i>In the Shadow of Brothers: Unintended Impacts of a School Entry Policy on Migrant Girls</i>
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
