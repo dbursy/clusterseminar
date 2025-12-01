@@ -32,8 +32,11 @@ We find evidence of increased applications for work-related health investments d
 </p>
 <br>
 
-<strong>10.12.2025 — 12:00 to 13:00</strong> <b>Marten Ritterrath</b>, <i>Title to be announced</i>
-<br><br>
+<strong>10.12.2025 — 12:00 to 13:00</strong> <b>Marten Ritterrath</b>, <i>Inventors‘ Personal Experience of Natural Disasters and Green Innovation</i>
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    We show that personal experiences affect high-stakes economic decisions among inventors. Using matched patent and survey data from French and German inventors linked to natural disaster records, we exploit exogenous variation in disaster exposure. Inventors personally affected by natural disasters subsequently produce 8.2% more green patents, primarily driven by emission-reducing mitigation technologies, while non-green innovation remains unaffected. The absence of sizable spatial spillovers highlights the importance of personal experience. Disaster exposure shapes innovation choices by altering profitability expectations through shifting higher-order beliefs about consumer demand and anticipated regulation. Embedding this channel in a formal model, we disentangle the role of expectations and intrinsic motivation. The model predicts, and the data confirm, that effects are strongest in competitive markets, where profit incentives matter most.
+</p>
+<br>
 
 <strong>17.12.2025 — 12:00 to 13:00</strong> <b>Mareen Bastiaans</b>, <i>Title to be announced</i>
 <br><br>
