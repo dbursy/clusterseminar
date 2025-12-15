@@ -38,8 +38,11 @@ We find evidence of increased applications for work-related health investments d
 </p>
 <br>
 
-<strong>17.12.2025 — 12:00 to 13:00</strong> <b>Mareen Bastiaans</b>, <i>Title to be announced</i>
-<br><br>
+<strong>17.12.2025 — 12:00 to 13:00</strong> <b>Mareen Bastiaans</b>, <i>Part-time Traps</i> (Joint with Jan Berendsen, Iris Kesternich and Christian Pugnaghi Zimpelmann)
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    Most women reduce their labor supply after childbirth. When children become older, most women spend less time on women spend less time on childcare activities. Yet, female labor supply recovers little as children age and part-time work remains common among mothers of older children. Understanding the motivation behind labor supply choices of women with older children is crucial to design effective policies to increase the labor supply of these women. We will conduct AI assisted qualitative interviews to identify the reasons for part-time work among women with older kids.
+</p>
+<br>
 
 <strong>14.01.2026 — 12:00 to 13:00</strong> <b>Lars Felder</b>, <i>Title to be announced</i>
 <br><br>
