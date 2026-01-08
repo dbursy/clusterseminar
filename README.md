@@ -44,10 +44,7 @@ We find evidence of increased applications for work-related health investments d
 </p>
 <br>
 
-<strong>14.01.2026 — 12:00 to 13:00</strong> <b>Lars Felder</b>, <i>Title to be announced</i>
-<br><br>
-
-<strong>21.01.2026 — 12:00 to 13:00</strong> <b>Izabela Wnuk-Soares</b>, <i>Title to be announced</i>
+<strong>21.01.2026 — 12:00 to 13:00</strong> <b>Lars Felder</b>, <i>Title to be announced</i>
 <br><br>
 
 <strong>28.01.2026 — 12:00 to 13:00</strong> <b>William Fernandez</b>, <i>Raising the Retirement Age for Women. Spillover Effects on Young Adults’ Labor Supply in Brazil</i>
