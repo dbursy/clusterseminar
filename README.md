@@ -44,8 +44,11 @@ We find evidence of increased applications for work-related health investments d
 </p>
 <br>
 
-<strong>21.01.2026 — 12:00 to 13:00</strong> <b>Lars Felder</b>, <i>Title to be announced</i>
-<br><br>
+<strong>21.01.2026 — 12:00 to 13:00</strong> <b>Lars Felder</b>, <i>Firm Adjustment to a Policy-Induced Negative Labor Supply Shock: Evidence from Germany</i> (Joint with Johannes Geyer, Peter Haan, Jan Nimczik and Lennert Peede)
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    In times of an increasing scarcity of workers, Germany has in a rare move decreased the retirement age for a sizeable group of the workforce. This paper investigates the effect of this negative labor supply shock on firm and individual level outcomes using the universe of firms in the IEB as well as matched employer-employee data from the SIAB. We exploit variation in firms’ exposure to the reform driven by their pre-reform workforce composition. We show that affected workers make use of the reform and exit the labor force earlier. Our data allows us to investigate effects on the careers of coworkers as well as firm-level outcomes. Our results shed light on how firms and workers adjust to labor scarcity induced by demographic and policy changes.
+</p>
+<br>
 
 <strong>28.01.2026 — 12:00 to 13:00</strong> <b>William Fernandez</b>, <i>Raising the Retirement Age for Women. Spillover Effects on Young Adults’ Labor Supply in Brazil</i>
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
