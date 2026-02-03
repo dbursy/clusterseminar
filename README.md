@@ -50,17 +50,14 @@ We find evidence of increased applications for work-related health investments d
 </p>
 <br>
 
-<strong>28.01.2026 — 12:00 to 13:00</strong> <b>William Fernandez</b>, <i>Raising the Retirement Age for Women. Spillover Effects on Young Adults’ Labor Supply in Brazil</i>
-<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
-    Latin America is facing rapid population aging. To address the sustainability of contributory pension systems, many countries are considering increasing the retirement age. One such case is Brazil, where a pension reform in 2019 raised the retirement age from 60 to 62 for women. While the effects of such reforms on the labor force participation of older adults and their spouses have been widely analyzed, intergenerational spillover effects remain understudied, particularly in Latin America. Evidence from other contexts suggests that a mother’s retirement can increase her young daughters’ labor supply, particularly among households with young children. However, most of this evidence comes from European countries with broader access to formal sources of childcare. In this paper, I estimate the effect of grandmother’s retirement on the labor force participation of young adults in Brazil. Using data from Brazil’s Continuous National Household Sample Survey (PNADC) from 2023 and a fuzzy regression discontinuity design, I find that older women substantially reduce their working hours upon retirement. Moreover, adult women living with young children and an older woman who retires upon reaching the minimum retirement age increase their working hours by 0.5 for every hour the older woman stops working. No significant effects are observed for men, even when young children are present in the household. These findings suggest that, in contexts with limited access to formal childcare, grandmothers play a crucial role in supporting their daughters’ labor supply, particularly when young children are involved. 
-</p>
-<br>
-
 <strong>04.02.2026 — 12:00 to 13:00</strong> <b>Anna Bindler</b>, <i>Title to be announced</i>
 <br><br>
 
-<strong>11.02.2026 — 12:00 to 13:00</strong> <b>Annica Gehlen</b>, <i>Title to be announced</i>
-<br><br>
+<strong>11.02.2026 — 12:00 to 13:00</strong> <b>Annica Gehlen</b>, <i>Occupations, Disability Insurance, and Career Choices</i>
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    Work-limiting disabilities pose a significant risk to the earnings potential and welfare of older workers. While coverage of public disability insurance (DI) systems is almost universal, the risk of becoming dependent on DI varies across occupations. In this paper, I study the value of public DI across different occupations using data from administrative social security records in Germany. I evaluate how severe health shocks that result in long-term sickness leave influence the employment trajectories of affected workers. I find that individuals who remain in the labor force are twice as likely to transition between occupations, with larger effects among workers in manual jobs than other occupations. I then use a structural model to study the relationship between disability insurance, occupational choice, and retirement in a life-cycle context. In counterfactual experiments, I evaluate how adjustments to the DI and retirement system affect the labor supply of different occupational groups.
+</p>
+<br>
 
 <strong>18.02.2026 — 12:00 to 13:00</strong> <b>Luisa Santiago Wolf</b>, <i>Title to be announced</i>
 <br><br>
