@@ -50,8 +50,11 @@ We find evidence of increased applications for work-related health investments d
 </p>
 <br>
 
-<strong>04.02.2026 — 12:00 to 13:00</strong> <b>Anna Bindler</b>, <i>Title to be announced</i>
-<br><br>
+<strong>04.02.2026 — 12:00 to 13:00</strong> <b>Anna Bindler</b>, <i>A missed opportunity? Labor demand shocks and workforce diversity</i>
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    We study how labor demand shocks affect workforce diversity in the absence of targeted diversity policies. Exploiting German reunification as a natural experiment, we analyze the academic labor market where nearly all social sciences professors in East Germany were replaced while STEM faculty remained largely unchanged. Using administrative data and a regional difference-in-differences design, we show that female representation did not increase despite qualified women in the pipeline. Instead, East German hiring patterns converged to those in West Germany. In addition, we find increased dispersion in the institutional quality of hires, indicating that the newly hired men came from less select departments. In simulations, we investigate implied quality differences: Under conservative assumptions, we show that, considering the pipeline of qualified applicants, the marginal female hire's quality is approximately half a standard deviation higher than the marginal male hire's quality. Put differently, rationalizing the observed gender-disparate hiring outcomes in a merit-based system would require women to be drawn from the top 15% of the population and men from only the top 5%.
+</p>
+<br>
 
 <strong>11.02.2026 — 12:00 to 13:00</strong> <b>Annica Gehlen</b>, <i>Occupations, Disability Insurance, and Career Choices</i>
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
