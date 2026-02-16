@@ -65,14 +65,14 @@ We find evidence of increased applications for work-related health investments d
 <strong>18.02.2026 — 12:00 to 13:00</strong> <b>Luisa Santiago Wolf</b>, <i>Title to be announced</i>
 <br><br>
 
-<strong>25.02.2026 — 12:00 to 13:00</strong> <b>Maxi Schaller</b>, <i>Title to be announced</i>
-<br><br>
-
-<strong>03.03.2025 — 12:00 to 13:00</strong> <b>Lavinia Kinne</b>, <i>Diversity in Teams and Creative Output</i>
+<strong>25.02.2026 — 12:00 to 13:00</strong> <b>Lavinia Kinne</b>, <i>Diversity in Teams and Creative Output</i>
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
     Modern labor markets increasingly rely on teamwork for tasks that require creative thinking, yet little is known about how such creative output is produced. We exploit the randomized allocation of first-year undergraduate students to study groups in a large Economics module to examine how diversity in team members’ backgrounds affects the creativity of their collaborative work. Each group produces a short video on a major innovation and its economic implications. Grounded in psychological theories of creativity, we use human raters to assess the creative quality of these videos. Our results show that diversity in country background—a proxy for ethnic diversity—enhances creative performance. Academic performance remains unaffected, suggesting that the factors driving creative team performance differ from those underlying regular performance and that organizations can foster creative output without compromising other dimensions of effectiveness.
 </p>
 <br>
+
+<strong>04.03.2025 — 12:00 to 13:00</strong> <b>Maxi Schaller</b>, <i>Stress and Resilience in the Labor Market</i>
+<br><br>
 
 </details>
 
