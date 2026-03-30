@@ -15,10 +15,13 @@ Summer Semester 2026
 <strong>15.04.2026 — 12:00 to 13:00</strong> <b>Kyra Hanemaaijer</b>, <i>To Be Announced</i>
 <br><br>
 
-<strong>29.04.2026 — 12:00 to 13:00</strong> <b>Anke Windisch </b>, <i>To Be Announced</i>
+<strong>29.04.2026 — 12:00 to 13:00</strong> <b>Anke Windisch</b>, <i>To Be Announced</i>
 <br><br>
 
-<strong>20.05.2026 — 12:00 to 13:00</strong> <b>Niklas Döhler </b>, <i>To Be Announced</i>
+<strong>13.05.2026 — 12:00 to 13:00</strong> <b>Timo Haller</b>, <i>To Be Announced</i>
+<br><br>
+
+<strong>20.05.2026 — 12:00 to 13:00</strong> <b>Niklas Döhler</b>, <i>To Be Announced</i>
 <br><br>
 
 <strong>27.05.2026 — 12:00 to 13:00</strong> <b>Mia Teschner-Hofmann</b>, <i>To Be Announced</i>
@@ -27,16 +30,16 @@ Summer Semester 2026
 <strong>03.06.2026 — 12:00 to 13:00</strong> <b>Dominik Bursy</b>, <i>To Be Announced</i>
 <br><br>
 
-<strong>10.06.2026 — 12:00 to 13:00</strong> <b>Lars Felder </b>, <i>To Be Announced</i>
+<strong>10.06.2026 — 12:00 to 13:00</strong> <b>Lars Felder</b>, <i>To Be Announced</i>
 <br><br>
 
-<strong>17.06.2026 — 12:00 to 13:00</strong> <b>Maxi Schaller </b>, <i>To Be Announced</i>
+<strong>17.06.2026 — 12:00 to 13:00</strong> <b>Maxi Schaller</b>, <i>To Be Announced</i>
 <br><br>
 
-<strong>01.07.2026 — 12:00 to 13:00</strong> <b>Lavinia Kinne </b>, <i>To Be Announced</i>
+<strong>01.07.2026 — 12:00 to 13:00</strong> <b>Lavinia Kinne</b>, <i>To Be Announced</i>
 <br><br>
 
-<strong>08.07.2026 — 12:00 to 13:00</strong> <b>Izabela Wnuk-Soares </b>, <i>To Be Announced</i>
+<strong>08.07.2026 — 12:00 to 13:00</strong> <b>Izabela Wnuk-Soares</b>, <i>To Be Announced</i>
 <br><br>
 
 <strong>15.07.2026 — 12:00 to 13:00</strong> <b>Annica Gehlen</b>, <i>To Be Announced</i>
