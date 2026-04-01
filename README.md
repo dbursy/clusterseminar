@@ -12,8 +12,11 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 Summer Semester 2026
 </summary>
 
-<strong>15.04.2026 — 12:00 to 13:00</strong> <b>Kyra Hanemaaijer</b>, <i>To Be Announced</i>
-<br><br>
+<strong>15.04.2026 — 12:00 to 13:00</strong> <b>Kyra Hanemaaijer</b>, <i>Revealed Trust in Police: Measurement and Determinants (Joint with Anna Bindler and Randi Hjalmarsson)</i>
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    Trust is a key ingredient for effective institutions, including the police's ability to control crime. We develop a novel, real time, and non-survey-based measure of trust in police that enables the use of high-frequency and local variation to study its determinants. Drawing on more than three million police stops from 2015 to 2024 across 31 police forces in England and Wales, we use the willingness of stopped subjects to self-report sensitive personal information — their ethnicity — to officers as a proxy for trust. We cross-validate our measure of trust against multiple national and London-specific survey-based measures. Our measure reveals substantial declines in trust over our sample period, especially in London, where the share of those who self-report ethnicity decreased from 90% to 69%. We use our measure to study the determinants of trust, focusing on police misconduct and (to be done) the roll-out of body-worn cameras for police officers in London. Using a pre-post design that controls for underlying trends in trust and potential changes in stop composition, we study the effect of the 2021 kidnapping, rape, and murder of Sarah Everard by an off-duty London Metropolitan police officer. Trust in police decreased significantly by more than 2% relative to the mean and immediately. These effects are seen throughout London but do not appear to substantively spill over to non-London police forces. Trust decreased by an additional 4% following new information (another case of severe officer misconduct) that potentially signaled systemic problems rather than a case of an isolated bad apple.
+</p>
+<br>
 
 <strong>29.04.2026 — 12:00 to 13:00</strong> <b>Anke Windisch</b>, <i>To Be Announced</i>
 <br><br>
@@ -21,10 +24,7 @@ Summer Semester 2026
 <strong>13.05.2026 — 12:00 to 13:00</strong> <b>Timo Haller</b>, <i>To Be Announced</i>
 <br><br>
 
-<strong>20.05.2026 — 12:00 to 13:00</strong> <b>Niklas Döhler</b>, <i>To Be Announced</i>
-<br><br>
-
-<strong>27.05.2026 — 12:00 to 13:00</strong> <b>Mia Teschner-Hofmann</b>, <i>To Be Announced</i>
+<strong>27.05.2026 — 12:00 to 13:00</strong> <b>Niklas Döhler</b>, <i>To Be Announced</i>
 <br><br>
 
 <strong>03.06.2026 — 12:00 to 13:00</strong> <b>Dominik Bursy</b>, <i>To Be Announced</i>
@@ -36,6 +36,9 @@ Summer Semester 2026
 <strong>17.06.2026 — 12:00 to 13:00</strong> <b>Maxi Schaller</b>, <i>To Be Announced</i>
 <br><br>
 
+<strong>24.06.2026 — 12:00 to 13:00</strong> <b>Lisa Keding (tentative)</b>, <i>To Be Announced</i>
+<br><br>
+
 <strong>01.07.2026 — 12:00 to 13:00</strong> <b>Lavinia Kinne</b>, <i>To Be Announced</i>
 <br><br>
 
@@ -43,6 +46,12 @@ Summer Semester 2026
 <br><br>
 
 <strong>15.07.2026 — 12:00 to 13:00</strong> <b>Annica Gehlen</b>, <i>To Be Announced</i>
+<br><br>
+
+<strong>22.07.2026 — 12:00 to 13:00</strong> <b>Luisa Santiago Wolf (tentative)</b>, <i>To Be Announced</i>
+<br><br>
+
+<strong>29.07.2026 — 12:00 to 13:00</strong> <b>Mia Teschner-Hofmann</b>, <i>To Be Announced</i>
 <br><br>
 
 </details>
