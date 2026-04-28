@@ -25,7 +25,10 @@ Summer Semester 2026
 <br>
 
 <strong>13.05.2026 — 12:00 to 13:00</strong> <b>Timo Haller</b>, <i>Child Penalty Estimation: The Bias in Pseudo-Panels</i>
-<br><br>
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    The pseudo-panel approach is widely adopted to estimate child penalties when panel data are unavailable and researchers must instead rely on repeated cross-sectional data. This paper demonstrates that estimates based on pseudo-panel data are systematically biased for both child penalties and pre-trends. We derive a closed-form expression for the asymptotic bias and show that the pseudo-panel approach effectively imputes missing values in repeated cross-sectional datasets. However, this interpolation fails to preserve the full correlation between event time and the outcome, inducing an omitted variable bias for negative event times. Consequently, pre-trend estimates are mechanically attenuated toward zero and are therefore unsuitable for testing the parallel trends assumption. Moreover, child penalty estimates inherit a bias equal to linear combinations of the pre-trend effects. We validate these theoretical results using observational and simulated data.
+</p>
+<br>
 
 <strong>27.05.2026 — 12:00 to 13:00</strong> <b>Niklas Döhler</b>, <i>To Be Announced</i>
 <br><br>
