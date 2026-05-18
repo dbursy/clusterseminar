@@ -30,8 +30,11 @@ Summer Semester 2026
 </p>
 <br>
 
-<strong>27.05.2026 — 12:00 to 13:00</strong> <b>Niklas Döhler</b>, <i>To Be Announced</i>
-<br><br>
+<strong>27.05.2026 — 12:00 to 13:00</strong> <b>Niklas Döhler</b>, <i>Bridging the Gap to Retirement: The Role of Unemployment Insurance</i>
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    In this paper, we study the role of unemployment insurance (UI) as an early retirement pathway and how institutions shape this channel. We exploit an early retirement reform introduced in Germany in 2014 that lowered the full retirement age for workers with long contribution histories. Crucially, the reform restricted access to this retirement pathway for individuals who received unemployment benefits during the two years prior to reaching the full retirement age, thereby altering the interaction between UI and the pension systems. Using administrative data on the universe of retirees and a difference-in-differences design, we analyze behavioral responses to the reform. We find that UI benefit receipt before retirement declined substantially by 34-48% among post-reform cohorts relative to pre-reform cohorts. These reductions are driven by both lower entry into UI and shorter benefit durations. Heterogeneity analyses reveal weaker effects for the first post-reform cohort and stronger reductions among workers in demanding and manual occupations. We also document behavioral responses exploiting a legislative loophole that allows individuals to accrue contributory periods while unemployed: the share of individuals combining marginal employment with UI spells before retirement rises by 150-250%. Overall, our findings suggest that program substitution rather than complementarity drives the decline in UI receipt, implying that higher pension expenditures may partially offset savings in UI spending.
+</p>
+<br>
 
 <strong>03.06.2026 — 12:00 to 13:00</strong> <b>Dominik Bursy</b>, <i>To Be Announced</i>
 <br><br>
