@@ -36,8 +36,10 @@ Summer Semester 2026
 </p>
 <br>
 
-<strong>03.06.2026 — 12:00 to 13:00</strong> <b>Dominik Bursy</b>, <i>To Be Announced</i>
-<br><br>
+<strong>03.06.2026 — 12:00 to 13:00</strong> <b>Dominik Bursy</b>, <i>Repeated Flood Exposure, Household Resilience, and Well-Being: First Evidence from the 2002 and 2013 Floods in Saxony</i>
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    This project (work-in-progress) examines the effects of repeated flood exposure on household resilience and individual well-being. Using georeferenced SOEP data linked to detailed inundation maps for the 2002 and 2013 Elbe and Mulde floods in Saxony, I estimate distance-based flood exposure effects on household savings and individual well-being outcomes. Savings behavior serves as a benchmark and replication exercise, while the main analysis focuses on life satisfaction, domain-specific satisfaction, and worries within households. Preliminary findings suggest that flood exposure affects both financial behavior and broader well-being, with heterogeneous patterns across flood events. The project will further investigate whether these differences reflect adaptation, resilience, or accumulated vulnerability.  
+</p>
 
 <strong>10.06.2026 — 12:00 to 13:00</strong> <b>Lars Felder</b>, <i>To Be Announced</i>
 <br><br>
