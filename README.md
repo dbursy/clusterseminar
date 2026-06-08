@@ -41,8 +41,11 @@ Summer Semester 2026
     This project (work-in-progress) examines the effects of repeated flood exposure on household resilience and individual well-being. Using georeferenced SOEP data linked to detailed inundation maps for the 2002 and 2013 Elbe and Mulde floods in Saxony, I estimate distance-based flood exposure effects on household savings and individual well-being outcomes. Savings behavior serves as a benchmark and replication exercise, while the main analysis focuses on life satisfaction, domain-specific satisfaction, and worries within households. Preliminary findings suggest that flood exposure affects both financial behavior and broader well-being, with heterogeneous patterns across flood events. The project will further investigate whether these differences reflect adaptation, resilience, or accumulated vulnerability.  
 </p>
 
-<strong>10.06.2026 — 12:00 to 13:00</strong> <b>Lars Felder</b>, <i>To Be Announced</i>
-<br><br>
+<strong>10.06.2026 — 12:00 to 13:00</strong> <b>Lars Felder</b>, <i>Fuel price elasticities: The role of price salience and expenditure misperceptions</i>
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    Carbon pricing is often viewed as a key instrument to decarbonize the transportation sector, yet it remains politically contested and emotionally charged. This paper studies why fuel price increases elicit strong responses that appear disproportionate to their budgetary impact. We conduct a large-scale survey experiment with more than 3,100 German car drivers in which an identical fuel price increase is framed either as a higher price per liter or as an increase in monthly fuel expenditures. We find that stated fuel demand elasticities are substantially larger when price increases are presented per liter than when they are framed in expenditure terms. While our results show that consumers systematically overestimate the expenditure impact of fuel price increases, we find that these misperceptions explain only part of the discrepancy. Our results point to price salience as a key mechanism: fuel prices serve as salient reference points that trigger heightened attention. These findings suggest that short-run reactions to fuel prices may overstate longer-run behavioral responses, with implications for both policy communication and carbon pricing design.
+</p>
+<br>
 
 <strong>17.06.2026 — 12:00 to 13:00</strong> <b>Maxi Schaller</b>, <i>To Be Announced</i>
 <br><br>
