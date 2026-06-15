@@ -47,8 +47,11 @@ Summer Semester 2026
 </p>
 <br>
 
-<strong>17.06.2026 — 12:00 to 13:00</strong> <b>Maxi Schaller</b>, <i>To Be Announced</i>
-<br><br>
+<strong>17.06.2026 — 12:00 to 13:00</strong> <b>Maxi Schaller</b>, <i>Adaptability demands and non-cognitive skills</i>
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    The task-based framework characterises occupations in terms of what workers do, but remains largely silent on a distinct property of the work environment: the frequency with which workers face novel, unscripted, or changing demands within their task bundle, which we term adaptability demands. Using representative survey data on working conditions in Germany, we construct a direct measure of this dimension and document that adaptability requirements have been rising independently of standard task dimensions since the mid-1980s. Exploiting within-worker variation in occupational characteristics across job transitions we document that adaptive capacity, defined as emotional stability combined with an internal locus of control, is the non-cognitive skill that is differentially rewarded across occupations.
+</p>
+<br>
 
 <strong>24.06.2026 — 12:00 to 13:00</strong> <b>Lisa Keding (tentative)</b>, <i>To Be Announced</i>
 <br><br>
