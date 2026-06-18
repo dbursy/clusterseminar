@@ -53,6 +53,10 @@ Summer Semester 2026
 </p>
 <br>
 
+<strong>19.06.2026 — 11:00 to 12:00</strong> <b>Maxi Schaller</b>, <i>Migration Background and Long-Term Care Use among 60+ in France</i>
+<br>
+<br>
+
 <strong>24.06.2026 — 12:00 to 13:00</strong> <b>Lisa Keding</b>, <i>How does place-based innovation funding increase skill demand? Evidence from online job positings</i>
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
     Place-based innovation policies are also increasingly oriented toward regional skill and competence development. Yet evidence on the effect of innovation funding on organization-level skill requirements remains limited. To address this gap, we investigate how public innovation funding within collaborative innovation consortia affects both the level and skill requirements of labor demand. We examine the German WIR! program, which funds innovation consortia in structurally weak regions. Our analysis is based on a panel of 319 organizations linked to online job posting data from 2016 to 2022. Exploiting the program's two-stage selection process, we compare funded organizations with those in near-winner consortia. Difference-in-differences estimates suggest that funded organizations post 1.6 additional vacancies per year, primarily for high-skilled positions. In addition, funded organizations increasingly require innovation-related and collaboration skills, as well as specialized knowledge. These findings align with the policy design of collaborative innovation consortia. They suggest that place-based innovation policies influence not only the quantity of labor organizations demand but also the specific skill sets they require.
