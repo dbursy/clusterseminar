@@ -67,10 +67,7 @@ Summer Semester 2026
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
     We examine how access to low-barrier gig work affects local employment and crime. Using the staggered rollout of food-delivery platforms across France, we estimate difference-in-differences effects on labor-market outcomes and police-recorded offending. Platform entry substantially increases delivery-worker registrations and reduces unemployment among men and inactivity among male migrants. Crime falls in treated areas, with large declines in vandalism, petty theft, and drug offenses. Exploiting the legal minimum age of 18 for delivery work, we show that crime reductions are concentrated among gig-job-eligible individuals. The results suggest that lowering barriers to legal income opportunities can reduce low-skill offending. 
 </p>
-<br>
-
-<strong>08.07.2026 — 12:00 to 13:00</strong> <b>Izabela Wnuk-Soares</b>, <i>To Be Announced</i>
-<br><br>
+<br
 
 <strong>15.07.2026 — 12:00 to 13:00</strong> <b>Annica Gehlen</b>, <i>To Be Announced</i>
 <br><br>
