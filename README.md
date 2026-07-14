@@ -67,10 +67,13 @@ Summer Semester 2026
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
     We examine how access to low-barrier gig work affects local employment and crime. Using the staggered rollout of food-delivery platforms across France, we estimate difference-in-differences effects on labor-market outcomes and police-recorded offending. Platform entry substantially increases delivery-worker registrations and reduces unemployment among men and inactivity among male migrants. Crime falls in treated areas, with large declines in vandalism, petty theft, and drug offenses. Exploiting the legal minimum age of 18 for delivery work, we show that crime reductions are concentrated among gig-job-eligible individuals. The results suggest that lowering barriers to legal income opportunities can reduce low-skill offending. 
 </p>
-<br
+<br>
 
-<strong>15.07.2026 — 12:00 to 13:00</strong> <b>Annica Gehlen</b>, <i>To Be Announced</i>
-<br><br>
+<strong>15.07.2026 — 12:00 to 13:00</strong> <b>Annica Gehlen</b>, <i>Occupations, Disability Insurance, and Career Choices </i>
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    Work-limiting disabilities pose a substantial risk to the earnings potential and welfare of older workers. While coverage under public disability insurance (DI) systems is nearly universal, the risk of becoming dependent on DI varies across occupations. In this paper, I study the value of public DI across occupations using administrative social security records from Germany. I first examine how a long-term sick leave event (which typically precedes DI take-up) affects the employment trajectories of affected workers. Consistent with previous literature, I find a large decline in employment and earnings across occupation groups. Moreover, those who remain in the labor force are twice as likely to transition between occupations, highlighting health events as an important driver of job transitions among older workers. I then use a structural model to study the relationship between health, occupational choice, disability insurance, and retirement in a life-cycle framework. In counterfactual experiments, I evaluate how adjustments to the DI and retirement system affect labor supply and program take-up across different occupational groups.
+</p>
+<br>
 
 <strong>22.07.2026 — 12:00 to 13:00</strong> <b>Luisa Santiago Wolf (tentative)</b>, <i>To Be Announced</i>
 <br><br>
