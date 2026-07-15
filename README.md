@@ -75,11 +75,11 @@ Summer Semester 2026
 </p>
 <br>
 
-<strong>22.07.2026 — 12:00 to 13:00</strong> <b>Luisa Santiago Wolf (tentative)</b>, <i>To Be Announced</i>
-<br><br>
-
-<strong>29.07.2026 — 12:00 to 13:00</strong> <b>Mia Teschner-Hofmann</b>, <i>To Be Announced</i>
-<br><br>
+<strong>22.07.2026 — 12:00 to 13:00</strong> <b>Luisa Santiago Wolf (tentative)</b>, <i>The trickle-down effects of higher education affirmative action in Brazil</i>
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    Higher education affirmative action is highly controversial. However, the debate concentrates much on the immediate beneficiaries and their prospects, disregarding that future beneficiaries should also react to the chance to pursue higher education. Effects should thus trickle-down to children who are still at school. I address this and study a higher education affirmative action law in Brazil that substantially increases public school students’ chance of university admission by reserving 50% of vacancies in each major at flagship federal universities. I conceptualize students’ expected effort reaction in a theoretical framework and empirically test its derived hy- potheses. Using administrative data from the São Paulo State School Performance Assessment System test and its rich background questionnaire, I apply a difference-in-discontinuity design and study how the new chance affects students’ aspirations, effort and performance. I find that student’s aspirations to pursue higher education increase after quota implementation. Accord- ingly, students increase their effort at the upper end of the effort distribution. The increased effort is reflected in improved Portuguese performance. Results are driven by boys whose aspirations to pursue higher education are increased.
+</p>
+<br>
 
 </details>
 
